@@ -73,7 +73,7 @@
                   <!-- <ul class="topic" data-list="topic"></ul> -->
                   <div class="skill-list">
                      <ul class="code">
-                        <img src='img/icon/code.png' alt='code'>
+                        <li><img src='img/icon/code.png' alt='code'></li>
                         <li>HTML</li>
                         <li>CSS/SASS</li>
                         <li>JavaScript</li>
@@ -83,7 +83,7 @@
                         <li>Bootstrap</li>
                      </ul>
                      <ul class="tool">
-                        <img src='img/icon/tool.png' alt='tool'>
+                        <li><img src='img/icon/tool.png' alt='tool'></li>
                         <li>Git</li>
                         <li>Github</li>
                         <li>Chrome Developer Tools</li>
@@ -161,19 +161,23 @@
                   <a rel="noopener" href="sms:+886908117599"><img src="img/icon/sms.png" alt="sms icon">sms</a>
                </div>
                <form>
-                  <label for='name'></label>
+                  <label for='name'>
                   <input type="text" name="name" placeholder="Name" required id="name">
-                  <label for='phone'></label>
+               </label>
+                  <label for='phone'>
                   <input type = "tel" name="phone" placeholder = "Phone or Email" id="phone" required/>
-                  <label for="message"></label>
+               </label>
+                  <label for="message">
                   <textarea name="message" id="" cols="30" rows="10" placeholder="Message" required id="message"></textarea>
+               </label>
                   <p class="check-number">
                      <span class="a"></span>
                      <span>+</span>
                      <span class="b"></span>
                      <spn>=</spn>
-                     <label for="sum"></label>
+                     <label for="sum">
                      <input class="sum" type="number" placeholder="" required id="sum">
+                  </label>
                   </p>
                   <label for="submit"></label>
                   <input type="submit" value=""data-lan="submit" id="submit">

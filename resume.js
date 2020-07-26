@@ -188,6 +188,10 @@ hamburger.addEventListener("click", function(){
 	navItemContainer.classList.toggle("drop-down");
 	this.classList.toggle("change");
 })
+document.querySelector(".pimg1").addEventListener("click", function(){
+	navItemContainer.classList.remove("drop-down");
+})
+
 //id photo slider*************************************************************************
 // var imgs=document.querySelectorAll(".slide-inner img");
 // var slideInner=document.querySelector(".slide-inner");
