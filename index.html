@@ -48,7 +48,6 @@
                  <div class="swiper-pagination"></div>
                  <div class="arrow next swiper-button-next"></div>
                </div> -->
-               
                <article>
                   <!-- <h2 data-lan="intro"></h2> -->
                   <h1 data-lan="myname" class="myname"></h1>
@@ -57,9 +56,11 @@
                   <div class="icon-div">
                      <a rel="noopener" href="https://github.com/lisawcoding" target="_blank">
                         <img src="img/icon/github.png" alt="github icon">
+                        <span>GitHub</span> 
                      </a>
                      <a href="/img/resume.pdf" download>
                         <img src="img/icon/resume.png" alt="download">
+                        <span>Resume</span>
                      </a>
                   </div>
 
@@ -73,7 +74,7 @@
                   <!-- <ul class="topic" data-list="topic"></ul> -->
                   <div class="skill-list">
                      <ul class="code">
-                        <li><img src='img/icon/code.png' alt='code'></li>
+                        <li><img src='img/icon/code.png' alt='see code'></li>
                         <li>HTML</li>
                         <li>CSS/SASS</li>
                         <li>JavaScript</li>
@@ -127,12 +128,14 @@
                               <p class="year"></p>
                               <div class="info">
                                  <ul class="description"></ul>
-                                 <p data-lan="skillused"></p>
+                                 <!-- <p data-lan="skillused"></p> -->
                                  <ul class="skill-used"></ul>
                               </div>
                               <div class="button-div">
-                                 <a rel="noopener" href="#" target="_blank" class="viewsite">Demo</a>
-                                 <a rel="noopener" href="#" target="_blank" class="viewcode">&#60;/&#62;</a>                                 
+                                 <!-- <a rel="noopener" href="#" target="_blank" class="viewsite">Demo</a>
+                                 <a rel="noopener" href="#" target="_blank" class="viewcode">&#60;/&#62;</a>                                  -->
+                                 <a rel="noopener" href="#" target="_blank" class="viewsite"><img src="img/icon/open-new-window.png" alt="open new window"></a>
+                                 <a rel="noopener" href="#" target="_blank" class="viewcode"><img src="img/icon/code.png" alt="see code"></a>    
                               </div>
                         </div>
                      </div>
@@ -161,23 +164,19 @@
                   <a rel="noopener" href="sms:+886908117599"><img src="img/icon/sms.png" alt="sms icon">sms</a>
                </div>
                <form>
-                  
-                  <input type="text" id="name" name="name" placeholder="Name" required>
-               <label for='name'></label>
-                  
+                  <label for='name'>name</label>
+                  <input type="text" id="name" name="name" placeholder="Name" required>  
+                  <label for="tel">tel</label>
                   <input id="tel" type = "tel" name="phone" placeholder = "Phone or Email" required/>
-               <label for="tel"></label>
-                  
+                  <label for="msg">msg</label>
                   <textarea name="message" id="msg" cols="30" rows="10" placeholder="Message" required></textarea>
-               <label for="msg"></label>
                   <p class="check-number">
                      <span class="a"></span>
                      <span>+</span>
                      <span class="b"></span>
                      <spn>=</spn>
-                     <label for="sum"></label>
+                     <label for="sum">sum</label>
                      <input class="sum" id="sum" type="number" placeholder="" required>
-                  
                   </p>
                   <label for="submit"></label>
                   <input type="submit" value=""data-lan="submit" id="submit">

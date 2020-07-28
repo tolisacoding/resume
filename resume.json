@@ -31,7 +31,7 @@
            "a self-taught Front-end Developer with 1 year of work experience."
         ],
         "zh": [
-            "玉婷自學網頁設計,主要為前端網頁部份。非常熟悉HTML，CSS/SCSS和Javascript及各框架（如：Bootstrap, jQuery等），且會看技術文件接API等。",
+            "玉婷自學網頁設計,主要為前端網頁部份。非常熟悉HTML，CSS/SCSS和JavaScript及各框架（如：Bootstrap, jQuery等），且會看技術文件接API等。",
             "CSS切版部份熟悉flexbox, 及grid的應用。",
             "因為是自學，所以遇到新的網頁效果、新的框架、新的技術等都可以很快的自行在網路上找到資源，解決問題。",
             "有一年的前端開發工作經驗。第一份工作內容有開發維護網路商城的網站。工作分為2部份：優化及更新現有網頁，開發新的新網頁，主要是依美術的圖做切版及網頁視覺效果，RWD版型、UX互動，網頁動態效果...等。第二份工作主要是關發新的遊戲說明頁、選單、遊戲表、註單，主要是負責版型及接API。",
@@ -46,7 +46,7 @@
     "description": {
         "en": [
             "React: Hooks, Contect, Router...etc",
-            "Strong in HTML5, CSS, Javascript",
+            "Strong in HTML5, CSS, JavaScript",
             "Proficien Responsive Website Deign, flex, grid",
             "CSS RWD：iframe, overlay, slider, autoplay, audio, fade, swiper, animation...etc",
             "git version control",
@@ -57,7 +57,7 @@
             "熟悉 HTML5 & CSS3，能夠解決跨瀏覽器的相容性",
             "熟悉 flexbox, CSS grid 的切版方式，應用RWD網頁，手機、電腦，平面各尺吋",
             "熟悉 CSS framework，API，如 Bootstrap,Swiper",
-            "熟悉 Javascript, DOM 及各種API應用",
+            "熟悉 JavaScript, DOM 及各種API應用",
             "CSS網頁互動效果如：iframe,overlay, slider, autoplay, audio, fade, swiper, animation.",
             "開發工具： Chrome Dev Tool 除錯、修改, Visual Studio Code",
             "API文件閱讀能力、遇到問題會上Stackoverflow, MDN, W3Schools查詢並解決",
@@ -106,14 +106,14 @@
             "React",
             "HTML",
             "CSS/SASS",
-            "Javascript",
+            "JavaScript",
             "jQuery"
         ],
         "zh": [
             "React.js",
             "HTML",
             "CSS/SASS",
-            "Javascript",
+            "JavaScript",
             "jQuery"
         ]
     },
@@ -130,14 +130,14 @@
                     "github": "https://github.com/lisawcoding/clone-japanese-food",
                     "en": 
                         {   
-                            "title": "Clone Website Home Page: 定食8",
+                            "title": "Clone Home Page: 定食8",
                             "des": [
-                                "plain javascript, including Swiper framework for touch slider effect",
-                                "CSS grid for RWD",
+                                "plain JavaScript, including Swiper framework for touch slider effect",
                                 "Animation: swiper, fadding, autoplay, overlay, responsive navigation effect"
                             ],
                             "skillUsed": [
-                                "HTML, CSS, Javascript"
+                                "HTML", "CSS", "JavaScript",
+                                "Swiper"
                             ]
                         },
                     "zh":
@@ -147,7 +147,10 @@
                                 "RWD網頁，CSS grid, flex",
                                 "網頁效果有: 手滑swiper, 淡入淡出fadding, 自動播放／手選播放autoplay, 浮覆蓋層overlay, 互動導覽列responsive navigation effect...等"
                             ],
-                            "skillUsed": []
+                            "skillUsed": [
+                                "HTML", "CSS", "JavaScript",
+                                "Swiper"
+                            ]
                         }
                 },
                 {
@@ -156,12 +159,12 @@
                     "github": "https://github.com/lisawcoding/clone-tcmc",
                     "en": 
                         {
-                            "title": "Clone Website：台積電",
+                            "title": "Clone Home Page：台積電",
                             "des": [
                                 "Animation: fadding, autoplay effect"
                             ],
                             "skillUsed":[
-                                "HTML, CSS, Javascript"
+                                "HTML", "CSS", "JavaScript"
                             ]
                         },
                     "zh":
@@ -170,7 +173,9 @@
                             "des": [
                                 "網頁效果有：淡入淡出fadding, 自動播放／手選播放autoplay,  互動導覽列responsive navigation effect...等"
                             ],
-                            "skillUsed": []
+                            "skillUsed": [
+                                "HTML", "CSS", "JavaScript"
+                            ]
                         }
                 },
                 {
@@ -181,11 +186,10 @@
                         {
                             "title": "creative index style website",
                             "des": [
-                                "RWD, pc, tablet, and mobile shape drawn by CSS",
-                                "audio effect"
+                                "RWD, pc, tablet, and mobile shape drawn by CSS"
                             ],
                             "skillUsed":[
-                                "HTML, CSS, Javascript"
+                                "HTML", "CSS", "JavaScript"
                             ]
                         },
                     "zh":
@@ -193,10 +197,11 @@
                             "title": "創新網頁",
                             "des": [
                                 "用CSS畫出手機／平板／電腦的圖形，隨螢幕大小改變樣式",
-                                "加入音效",
-                                "使用HTML, CSS, Javascript"
+                                "加入音效"
                             ],
-                            "skillUsed":[]
+                            "skillUsed":[
+                                "HTML", "CSS", "JavaScript"
+                            ]
                         }
                 }
             ]
@@ -218,7 +223,7 @@
                                 "fetch to get the Central Weather Bureau api"
                             ],
                             "skillUsed":[
-                                "HTML, CSS, Javascript"
+                                "HTML", "CSS", "JavaScript"
                             ]
                         },
                     "zh":
@@ -227,7 +232,9 @@
                             "des": [
                                 "用fetch連中央氣象局的api資料"
                             ],
-                            "skillUsed": []
+                            "skillUsed": [
+                                "HTML", "CSS", "JavaScript"
+                            ]
                         }
                 },
                 {
@@ -240,11 +247,11 @@
                             "des": [
                                 "has shopping cart function",
                                 "get products detials from JSON file",
-                                "localStorage function for store data",
-                                "RWD"
+                                "localStorage function for store data"
                             ],
                             "skillUsed":[
-                                "HTML, CSS, Javascript"
+                                "HTML", "CSS", "JavaScript",
+                                "Swiper"
                             ]
                         },
                     "zh":
@@ -258,7 +265,10 @@
                                 "3層頁面：首頁、產品頁、購物車頁面",
                                 "RWD電腦、平板、手機視覺"
                             ],
-                            "skillUsed":[]
+                            "skillUsed":[
+                                "HTML", "CSS", "JavaScript",
+                                "Swiper"
+                            ]
                         }
                 }
             ]
@@ -277,24 +287,28 @@
                         {   
                             "title": "Pokemon Game",
                             "des": [
-                                "use PokéAPI to get pokemon data",
+                                "use PokéAPI",
                                 "game and score sheet function"
                             ],
                             "skillUsed":[
-                                "HTML, SCSS, Javascript",
-                                "React(Hooks, Context, Router)"
+                                "React(Hooks, Context, Router)",
+                                "HTML", "SASS", "JavaScript",
+                                "PokéAPI"
                             ]
                         },
                     "zh":
                         {
                             "title": "寶可夢電腦遊戲",
                             "des": [
-                                "用HTML, SASS, JavaScript, React",
                                 "連接寶可夢API",
                                 "遊戲及遊戲單",
                                 "用SASS"
                             ],
-                            "skillUsed":[]
+                            "skillUsed":[
+                                "React",
+                                "HTML", "SASS", "JavaScript",
+                                "PokéAPI"
+                            ]
                         }
                 },
                 {
@@ -305,12 +319,11 @@
                         {   
                             "title": "Todo List",
                             "des": [
-                                "use firebase to store the data",
-                                "style using SASS"
+                                "use firebase to store the data"
                             ],
                             "skillUsed":[
                                 "React(Hooks, Context, Router)",
-                                "HTML, CSS, Javascript",
+                                "HTML", "SASS", "JavaScript",
                                 "firebase"
                             ]
                         },
@@ -321,7 +334,11 @@
                                 "用HTML, SASS, JavaScript, React",
                                 "結合firebase存取資料"
                             ],
-                            "skillUsed":[]
+                            "skillUsed":[
+                                "React",
+                                "HTML", "SASS", "JavaScript",
+                                "firebase"
+                            ]
                         }
                 }
             ]
