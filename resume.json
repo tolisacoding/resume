@@ -287,27 +287,25 @@
                         {   
                             "title": "Pokemon Game",
                             "des": [
-                                "use PokéAPI",
+                                "fetch PokéAPI",
                                 "game and score sheet function"
                             ],
                             "skillUsed":[
                                 "React(Hooks, Context, Router)",
-                                "HTML", "SASS", "JavaScript",
-                                "PokéAPI"
+                                "HTML", "SASS", "JavaScript"
                             ]
                         },
                     "zh":
                         {
                             "title": "寶可夢電腦遊戲",
                             "des": [
-                                "連接寶可夢API",
+                                "fetch寶可夢API",
                                 "遊戲及遊戲單",
                                 "用SASS"
                             ],
                             "skillUsed":[
                                 "React",
-                                "HTML", "SASS", "JavaScript",
-                                "PokéAPI"
+                                "HTML", "SASS", "JavaScript"
                             ]
                         }
                 },
@@ -323,21 +321,18 @@
                             ],
                             "skillUsed":[
                                 "React(Hooks, Context, Router)",
-                                "HTML", "SASS", "JavaScript",
-                                "firebase"
+                                "HTML", "SASS", "JavaScript"
                             ]
                         },
                     "zh":
                         {
                             "title": "記事本",
                             "des": [
-                                "用HTML, SASS, JavaScript, React",
-                                "結合firebase存取資料"
+                                "用HTML, SASS, JavaScript, React"
                             ],
                             "skillUsed":[
                                 "React",
-                                "HTML", "SASS", "JavaScript",
-                                "firebase"
+                                "HTML", "SASS", "JavaScript"
                             ]
                         }
                 }
